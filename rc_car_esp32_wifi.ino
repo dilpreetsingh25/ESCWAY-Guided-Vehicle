@@ -2,8 +2,8 @@
 #include <WebServer.h>
 
 // Replace with your network credentials (STATION)
-const char* ssid = "G85 Edge";
-const char* password = "redmi nine";
+const char* ssid = "*******";
+const char* password = "********";
 
 void initWiFi() {
   WiFi.mode(WIFI_STA);
